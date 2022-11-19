@@ -16,7 +16,9 @@ Based on Scweet: https://github.com/Altimis/Scweet
 
 2. From this folder, in your terminal, run:
 
+```
 USER_USERNAME=[newly created user username] USER_EMAIL=[newly created user email] USER_PASSWORD=[newly created user password] ./scweet --from_account=[the account you want to scrape username] --since [how far back to scrape eg: 2012-11-01]
+```
 
 **Do not interact with the Chrome browser while it is running!**
 It is helpful to see the output for debugging but, if you can't help yourself, set the `--headless` command below to True to hide the window.
