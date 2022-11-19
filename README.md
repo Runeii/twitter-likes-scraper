@@ -24,6 +24,10 @@ USER_USERNAME=[newly created user username] USER_EMAIL=[newly created user email
 It is helpful to see the output for debugging but, if you can't help yourself, set the `--headless` command below to True to hide the window.
 
 
+**Login screen is slow!**
+I think the Twitter login page performance has declined, because often the window will not be ready within expected timeframes. For that reason, we pause 10 seconds between every step. Be patient, it's doing something (and will close/crash if it isn't)!
+
+
 3. You can technically pass any arguments supported by Scweet, thought many are useless when scraping likes. These are some that may be useful, however:
 
 ```
