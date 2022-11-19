@@ -1,0 +1,6 @@
+certifi
+selenium==4.2.0
+pandas
+chromedriver-autoinstaller
+geckodriver-autoinstaller
+urllib3

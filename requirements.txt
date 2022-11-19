@@ -1,7 +1,0 @@
-certifi
-selenium==4.2.0
-pandas
-python-dotenv
-chromedriver-autoinstaller
-geckodriver-autoinstaller
-urllib3
