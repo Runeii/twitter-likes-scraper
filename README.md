@@ -11,7 +11,7 @@ Based on Scweet: https://github.com/Altimis/Scweet
 
 ## Using
 
-1. It's recommended to create a new Twitter user as there is a rare edge possibility you're seen as a bot and the account banned. V unlikely if you're just scraping your own likes, but probably not worth the risk.
+1. **Optional**: If you are concerned about being flagged as a bot, you can create a new Twitter user and run this from there. As this only scrapes a single page, though, this is incredibly unlikely.
 
 
 2. From this folder, in your terminal, run:
